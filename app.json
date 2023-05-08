@@ -1,0 +1,16 @@
+{
+  "name": "updatexample",
+  "displayName": "updatexample",
+  "extra": {
+    "eas": {
+      "projectId": "b1d6331f-b434-43d5-963b-3f0d04a7a198"
+    }
+  },
+  "runtimeVersion": "1.0.0",
+  "updates": {
+    "url": "https://u.expo.dev/b1d6331f-b434-43d5-963b-3f0d04a7a198",
+    "checkAutomatically": "ON_ERROR_RECOVERY"
+  },
+  "android": {},
+  "ios": {}
+}
